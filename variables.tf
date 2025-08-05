@@ -11,7 +11,7 @@ variable "git-user-name" {
 }
 
 variable "key-name" {
-  default = "emre-aws20" # Update with your key name !!!!!!!!!!!!!!!!!!
+  default = "****" # Update with your key name !!!!!!!!!!!!!!!!!!
 
 }
 
